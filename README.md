@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<body>
+    
 
 <html lang="vi">
 <head>
@@ -16,7 +19,7 @@
         <p>
             - <span class="highlight">background-color: red;</span>: Đây là thuộc tính CSS được sử dụng để đặt màu nền (background-color) của các phần tử được chọn. Trong trường hợp này, màu nền của các phần tử có lớp tên "test" và "test_more" sẽ được đặt là đỏ (red).
         </p>
-
+</body>
         <p>VẬN DỤNG:</p>
 
         <p>Bài 1: Giả sử nội dung trang web của em có rất nhiều thẻ p, trong đó có ba đoạn mà em thấy quan trọng nhất, kí hiệu các đoạn này là P1, P2, P3. Có cách nào thiết lập định dạng CSS để có thể định dạng P1 khác biệt, P2 và P3 có cùng kiểu và cũng khác biệt không? Tất cả các đoạn còn lại có định dạng giống nhau. Hãy nêu cách giải quyết vấn đề của em.</p>
