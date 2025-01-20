@@ -5,13 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài 16: Định Dạng Khung</title>
     
-        .title {
-            text-align: center;
-            font-size: 2em;
-            font-weight: bold;
-            margin-top: 20px;
-            color: red;
-        }
+
         .content {
             font-size: 1.2em;
             margin: 20px;
