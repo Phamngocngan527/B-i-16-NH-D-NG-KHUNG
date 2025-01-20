@@ -1,5 +1,5 @@
 # B-i-16-NH-D-NG-KHUNG
-
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
