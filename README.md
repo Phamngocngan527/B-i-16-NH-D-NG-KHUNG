@@ -14,31 +14,11 @@
             font-size: 2em;
             font-weight: bold;
             margin-top: 20px;
-            color: red; /* Thêm màu đỏ cho tiêu đề */
+            color: red;
         }
         .content {
             font-size: 1.2em;
             margin: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
-    <div class="content">
-        <!-- Nội dung bài học sẽ được chèn vào đây -->
-    </div>
-<body>
-    <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
-    <div class="content">
-        <!-- Nội dung bài học sẽ được chèn vào đây -->
-    </div>
-</body>
-</html>
-
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
         }
         .highlight {
             background-color: yellow;
@@ -50,7 +30,8 @@
     </style>
 </head>
 <body>
-    <div class="larger-text">
+    <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
+    <div class="content larger-text">
         <p>Bài 1: Phần tử HTML có thể ẩn đi trên trang web được không? Nếu có thì dùng lệnh CSS gì?</p>
         <p>Có, phần tử HTML có thể được ẩn đi trên trang web bằng cách sử dụng lệnh CSS <span class="highlight">display: none;</span>.</p>
 
