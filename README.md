@@ -1,14 +1,10 @@
-<!DOCTYPE html>
+
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bài 16: Định Dạng Khung</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
+    
         .title {
             text-align: center;
             font-size: 2em;
@@ -20,21 +16,13 @@
             font-size: 1.2em;
             margin: 20px;
         }
-        .highlight {
-            background-color: yellow;
-            font-weight: bold;
-        }
-        .larger-text {
-            font-size: 1.2em;
-        }
+        
+      
     </style>
 </head>
 <body>
     <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
-    <div class="content">
-        <!-- Nội dung bài học sẽ được chèn vào đây -->
-    </div>
-</body>
+    <div class="content larger-text">
         <p>Bài 1: Phần tử HTML có thể ẩn đi trên trang web được không? Nếu có thì dùng lệnh CSS gì?</p>
         <p>Có, phần tử HTML có thể được ẩn đi trên trang web bằng cách sử dụng lệnh CSS <span class="highlight">display: none;</span>.</p>
 
