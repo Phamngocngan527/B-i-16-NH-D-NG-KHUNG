@@ -31,7 +31,10 @@
 </head>
 <body>
     <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
-    <div class="content larger-text">
+    <div class="content">
+        <!-- Nội dung bài học sẽ được chèn vào đây -->
+    </div>
+</body>
         <p>Bài 1: Phần tử HTML có thể ẩn đi trên trang web được không? Nếu có thì dùng lệnh CSS gì?</p>
         <p>Có, phần tử HTML có thể được ẩn đi trên trang web bằng cách sử dụng lệnh CSS <span class="highlight">display: none;</span>.</p>
 
