@@ -3,18 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bài 16: Định Dạng Khung</title>
     
-
-        .content {
-            font-size: 1.2em;
-            margin: 20px;
-        }
-        
-      
-    </style>
-</head>
-<body>
     <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
     <div class="content larger-text">
         <p>Bài 1: Phần tử HTML có thể ẩn đi trên trang web được không? Nếu có thì dùng lệnh CSS gì?</p>
