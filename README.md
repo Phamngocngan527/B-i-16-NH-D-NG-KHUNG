@@ -1,4 +1,3 @@
-# B-i-16-NH-D-NG-KHUNG
 <!DOCTYPE html>
 <html lang="vi">
 <head>
@@ -15,15 +14,19 @@
             font-size: 2em;
             font-weight: bold;
             margin-top: 20px;
-            color: red;
+            color: red; /* Thêm màu đỏ cho tiêu đề */
         }
-        
         .content {
             font-size: 1.2em;
             margin: 20px;
         }
     </style>
 </head>
+<body>
+    <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
+    <div class="content">
+        <!-- Nội dung bài học sẽ được chèn vào đây -->
+    </div>
 <body>
     <div class="title">BÀI 16: ĐỊNH DẠNG KHUNG</div>
     <div class="content">
